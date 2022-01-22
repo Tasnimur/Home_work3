@@ -1,0 +1,40 @@
+h1{
+	text-align: center;
+	color: red;
+	font-style: italic;
+}
+.all-browser{
+	margin: 0;
+	padding: 5px;
+	background-color: lightblue;
+}
+.all-browser>h1,.browser{
+	margin: 10px;
+	padding: 5px;
+}
+.browser{
+	background-color: white;
+}
+
+.browser>h2,p{
+	margin: 4px;
+}
+
+table{;
+	width: 100%;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th,td{
+	text-align: center;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+cite{
+	font-style: italic;
+}
+.wrapper{
+	border: 5px solid red;
+	background-color: lightblue;
+	text-align: center;
+}
